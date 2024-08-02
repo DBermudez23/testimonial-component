@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Component generated in React that consists of a testimonial card
+The card receives a name, GitHub username, location or city of residence, company where he or she currently practices, and the testimonial. This is given in a JavaScript object, which takes those values ​​and converts them into a presentable card, which has several examples which of course are adaptable, you can view the examples better at: https://testimonial-compn.netlify.app/
